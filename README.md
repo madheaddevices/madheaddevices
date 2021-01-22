@@ -5,7 +5,7 @@
 
 ## Licences
 
-Software & Hardware licences: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+Software & Hardware licences: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Forked repos: original author chooses licenses
 
