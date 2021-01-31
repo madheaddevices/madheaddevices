@@ -25,3 +25,5 @@ SimulIDE - Electronic circuit simulator (incl. 8 bit PIC firmware)
 Autodesk Eagle - Schematic, PCB design, direct export to eurocircuits.com PCB manufacturing
 
 Autodesk Fusion360 - 3D drawing, schematic, PDB design, included Autodesk Inventor & Eagle
+
+CoolTerm (OSX) - Serial terminal monitor
